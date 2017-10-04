@@ -1,3 +1,8 @@
+body {
+  background-color: brown;
+  padding: 2%;
+}
+
 .container {
   margin: auto;
   background-color: gray;
@@ -8,46 +13,13 @@
 .box {
   background: red;
   max-width: 50%;
-  /*height: 150px;*/
   margin: auto;
-  /*padding: 50px;*/
   font-size: 3em;
   text-align: center;
-  /*border: 2px solid yellow;*/
   clear: both;
-  /*margin: 25px;*/
 }
 
 p {
   border: 2px solid yellow;
   padding: 50px;
 }
-
-
-/*p {
-  font-size: 3em;
-  text-align: center;*/
-
-
-/*padding-top: 5%;
-  padding-bottom: 5%;*/
-
-
-/*border: 2px solid red;
-  max-width: 50%;
-  height: auto;*/
-
-
-/*float: right;*/
-
-
-/*margin: 0 auto;*/
-
-
-/*padding: 20px;*/
-
-
-/*margin: auto;
-  margin: 50px auto 50px auto;
-  clear: both;
-}*/
