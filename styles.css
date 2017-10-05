@@ -1,25 +1,18 @@
 body {
   background-color: brown;
-  padding: 2%;
-}
-
-.container {
-  margin: auto;
-  background-color: gray;
-  max-width: 75%;
-  padding: 150px;
 }
 
 .box {
-  background: red;
   max-width: 50%;
   margin: auto;
-  font-size: 3em;
+  font-size: 1.5em;
   text-align: center;
+  padding: 50px;
   clear: both;
 }
 
 p {
-  border: 2px solid yellow;
-  padding: 50px;
+  border: 10px solid yellow;
+  padding: 100px;
+  background: red;
 }
